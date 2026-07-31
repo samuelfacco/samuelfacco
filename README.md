@@ -28,7 +28,7 @@ Atualmente focado em fundamentos da computação, estrutura de dados, desenvolvi
 ## 📌 Projetos & Repositórios
 
 > Repositórios em destaque para acompanhamento acadêmico e prático:
-
+* **[pokemon-c-game](https://github.com/samuelfacco/pokemon-c-game)** — Simulador de batalhas Pokémon por turnos desenvolvido em C para a disciplina de PDS1 (UFMG), com suporte a vantagens de tipos elementares, cálculo dinâmico de dano e leitura de equipes via arquivo `.txt`.
 * **[estudos-c](https://github.com/samuelfacco)** — Algoritmos, estruturas de dados e exercícios práticos em C.
 * **[data-science-studies](https://github.com/samuelfacco)** — Projetos práticos, análise de dados e implementação de modelos.
 
